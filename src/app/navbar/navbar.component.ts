@@ -9,6 +9,9 @@ import { Component } from '@angular/core';
 })
 export class NavbarComponent {
   constructor() {
-    console.log('hello wo');
+    console.log('hel');
+
+    console.log('hello world');
+    
   }
 }
